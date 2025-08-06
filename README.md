@@ -1,2 +1,2 @@
-# Durga
+# durgarep
 My first repo in GitHub
